@@ -8,9 +8,12 @@ body{
 img{
     margin-bottom: 10px;
 }
+
 a {
     text-decoration: none;
+    color: #c8d6e5;
 }
+
 a:active{
     font-weight: bold;
     color: #c8d6e5
